@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF: -1 tvg-logo = "" group-title = "Comédia", Os Salafrários
+http://xsrv.me:8080/movie/edmundo2021/2021edmundo/103845.mp4
+
+#EXTINF: -1 tvg-logo = "" group-title = "Comédia", Um Tio Quase Perfeito 2
+http://xsrv.me:8080/movie/edmundo2021/2021edmundo/103844.mp4
+
+#EXTINF: -1 tvg-logo = "" group-title = "Animação", Era Do Gelo - Big Bang
+http://xsrv.me:8080/movie/edmundo2021/2021edmundo/67527.mp4
+
+#EXTINF: -1 tvg-logo = "" group-title = "Animação", Bons de Bico
+http://xsrv.me:8080/movie/edmundo2021/2021edmundo/67658.mp4
+
+#EXTINF: -1 tvg-logo = "" group-title = "Ação", Colombiana
+http://xsrv.me:8080/movie/edmundo2021/2021edmundo/68711.mp4
